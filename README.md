@@ -3,6 +3,7 @@
 This is a simple multi-threaded download manager written in Python. 
 It uses Python's standard library to download files. 
 
+![mget](./example.png)
 By [ruzhila.cn](http://ruzhila.cn/?from=github_mget).
 
 ## Features
